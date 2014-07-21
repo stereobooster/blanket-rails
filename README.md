@@ -20,7 +20,7 @@ Or install it yourself as:
 
 Add this line to your JS manifest file:
 
-    //= require blanket-rails
+    //= require blanket
 
 ## Version
 
